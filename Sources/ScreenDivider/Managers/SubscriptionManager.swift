@@ -10,8 +10,8 @@ import StoreKit
 final class SubscriptionManager {
     static let shared = SubscriptionManager()
 
-    static let monthlyProductID = "com.vantagemethod.screendivider.monthly"
-    static let yearlyProductID = "com.vantagemethod.screendivider.yearly"
+    static let monthlyProductID = "com.harveycreative.screendivider.monthly"
+    static let yearlyProductID = "com.harveycreative.screendivider.yearly"
     static let allProductIDs = [monthlyProductID, yearlyProductID]
 
     private(set) var isSubscribed = false

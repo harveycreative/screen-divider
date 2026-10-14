@@ -16,7 +16,7 @@ targets:
         buildPhase: resources
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.vantagemethod.screendivider
+        PRODUCT_BUNDLE_IDENTIFIER: com.harveycreative.screendivider
         PRODUCT_NAME: Screen Divider
         INFOPLIST_FILE: Info.plist
         GENERATE_INFOPLIST_FILE: NO

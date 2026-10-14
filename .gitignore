@@ -9,3 +9,5 @@
 
 # Local stable-signing config (never ship)
 .local-signing
+
+dist/
